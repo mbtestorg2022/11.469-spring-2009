@@ -26,30 +26,184 @@ Grading
 
 Final grades will be assigned based on the assignments and in-class activities listed below. Students are urged to pay close attention to due dates; late assignments will result in a significant grade penalty. More information can be found in the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 6 short reaction papers | 30% |
-| Additional core readings summary | 20% |
-| Class participation | 10% |
-| Final research proposal or paper | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6 short reaction papers
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Additional core readings summary
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final research proposal or paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | Classical foundations |
-| 3 | The ecological view I: the Chicago School |
-| 4 | The ecological view II: the social, spatial, natural, and built environment |
-| 5 | The urban ethnographic tradition |
-| 6 | Urban political economy I: cities, industrialization, and socio-spatial change |
-| 7 | Urban political economy II: capitalism and urban dynamics |
-| 8 | Urban political economy III: elites, political power, and urban dynamics |
-| 9 | The truly disadvantaged: class, race, ethnicity, and culture |
-| 10 | Social networks, new technologies, and the city |
-| 11 | Globalization and cities |
-| 12 | From cities in global context to the post-modern (and pre-modern?) city 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Classical foundations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The ecological view I: the Chicago School
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The ecological view II: the social, spatial, natural, and built environment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The urban ethnographic tradition
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Urban political economy I: cities, industrialization, and socio-spatial change
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Urban political economy II: capitalism and urban dynamics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Urban political economy III: elites, political power, and urban dynamics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The truly disadvantaged: class, race, ethnicity, and culture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Social networks, new technologies, and the city
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Globalization and cities
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+From cities in global context to the post-modern (and pre-modern?) city
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Texts
 -----
