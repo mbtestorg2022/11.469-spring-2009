@@ -98,7 +98,7 @@ The ecological view I: the Chicago School
 
 ### Required readings
 
-Wirth, Louis. "Urbanism as a Way of Life." _The American Journal of Sociology_ 44, no. 1 (1938): 1-24. (Also available in _The City Reader_, pp. 97-104) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://choros.epfl.ch/files/content/sites/choros/files/shared/Enseignement/Sciences%20de%20la%20ville/11-12/Wirth%20-%20Urbanism.pdf))
+Wirth, Louis. "Urbanism as a Way of Life." _The American Journal of Sociology_ 44, no. 1 (1938): 1-24. (Also available in _The City Reader_, pp. 97-104) ([PDF](http://choros.epfl.ch/files/content/sites/choros/files/shared/Enseignement/Sciences%20de%20la%20ville/11-12/Wirth%20-%20Urbanism.pdf))
 
 Park, Robert E. "The City: Suggestions for the Investigation of Human Behavior in the City Environment." _The American Journal of Sociology_ 20, no. 5 (1915): 577-612.
 
@@ -468,7 +468,7 @@ Matei, Sorin, and Sandra Ball-Rokeach. "Real and Virtual Social Ties: Connection
 
 ### Additional core readings
 
-Hampton, Keith. "Grieving for a Lost Network: Collective Action in a Wired Suburb." _The Information Society_ 19 (2003): 417-428. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://dx.doi.org/10.1080/714044688))
+Hampton, Keith. "Grieving for a Lost Network: Collective Action in a Wired Suburb." _The Information Society_ 19 (2003): 417-428. ([PDF](http://dx.doi.org/10.1080/714044688))
 
 Putnam, Robert. _Bowling Alone: The Collapse and Revival of American Community_. New York, NY: Simon & Shuster, 2001. ISBN: 9780743203043.
 
